@@ -15,7 +15,7 @@ namespace Assignment4
         {
             Program p = new Program();
             p.Beowulf = new ArrayList();
-            p.Run(); /// Section B(2nd commit)
+            p.Run(); /// Section B(2nd commit)ddd
         }
         public void Run() { this.ReadTextFiles(); }
 
